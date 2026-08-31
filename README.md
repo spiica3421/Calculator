@@ -38,25 +38,6 @@ Aplikasi web modern, responsif, dan mudah digunakan untuk menghitung pembelian b
 
 ---
 
-## 🚀 Cara Menjalankan Aplikasi
-
-Aplikasi ini bersifat *client-side* (dapat langsung dibuka di browser tanpa instalasi tambahan).
-
-### Opsi 1: Langsung Buka File HTML
-1. Buka File Explorer di komputer Anda.
-2. Masuk ke folder: `C:\Users\USER\.gemini\antigravity\scratch\kalkulator-belanja\`
-3. Klik dua kali pada file `index.html` (atau klik kanan -> *Open with Chrome / Edge / Firefox*).
-
-### Opsi 2: Menggunakan Local Server (Python / Node / VS Code Live Server)
-Jika memiliki Python di sistem:
-```bash
-cd C:\Users\USER\.gemini\antigravity\scratch\kalkulator-belanja
-python -m http.server 3000
-```
-Kemudian buka browser di `http://localhost:3000`.
-
----
-
 ## 📂 Struktur File
 
 ```
